@@ -2,16 +2,16 @@
 
 Prebuild:
 
-- Install Docker (Docker Desktop)
+Install Docker (Docker Desktop)
 
 Build:
 
-- ```shell
+```console
   ./build.sh
-  ```
+```
 
 Run:
 
-- ```shell
+```console
   ./run.sh
-  ```
+```
